@@ -1,2 +1,2 @@
-# Cronometro
- Um cronometro funcional
+# Cronômetro
+ Um cronômetro funcional
